@@ -61,6 +61,7 @@ dependencies {
     implementation("androidx.compose.ui:ui-tooling-preview")
     implementation("androidx.compose.material3:material3")
     implementation("com.google.firebase:firebase-firestore:24.9.1")
+    implementation("androidx.compose.ui:ui-text-android:1.5.4")
 
 
 
